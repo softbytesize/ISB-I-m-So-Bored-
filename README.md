@@ -10,3 +10,5 @@ Support: https://softbytesize.github.io/ISB#cu
 Documentation: https://softbytesize.github.io/ISB/#helpstart
 
 Releases: https://github.com/softbytesize/ISB-Releases/releases
+
+Discord: https://discord.com/invite/9YNzrXDHxE
