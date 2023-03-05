@@ -1,5 +1,5 @@
 # ISB (I'm So Bored) #
-### ISB (I'm so bored) is a network stress-testing application for Windows created by byte[size] Software###
+### ISB (I'm so bored) is a network stress-testing application for Windows created by byte[size] Software ###
 
 byte[size] Software: https://github.com/softbytesize
 
